@@ -21,20 +21,21 @@ Here are some images of the project:
 
 ### Features
 
-- **AI-Generated Images**: ShareME uses getimg.io to generate unique AI images that users can share.
-- **Voting Functionality**: Users can vote for their favorite images. To vote, users must be logged in.
-- **Azure Blob Storage**: All images are stored securely in Azure Blob Storage, ensuring high availability and reliability.
-- **Azure App Service**: The backend is hosted on Azure App Service, providing robust and scalable hosting for our Nest.js application.
-- **Authentication**: Users must be logged in to vote, ensuring that voting is fair and authenticated.
+- **AI-Generated Images**  : ShareME uses getimg.io to generate unique AI images that users can share.
+- **Voting Functionality** : Users can vote for their favorite images. To vote, users must be logged in.
+- **Azure Blob Storage**   : All images are stored securely in Azure Blob Storage, ensuring high availability and reliability.
+- **Azure App Service**    : The backend is hosted on Azure App Service, providing robust and scalable hosting for our Nest.js 
+                             application.
+- **Authentication**       : Users must be logged in to vote, ensuring that voting is fair and authenticated.
 
 ### Technologies Used
 
-- **Next.js**: A React framework for building the frontend of the application.
-- **Nest.js**: A progressive Node.js framework for building efficient and scalable server-side applications.
-- **PostgreSQL**: A powerful, open-source object-relational database system.
+- **Next.js**          : A React framework for building the frontend of the application.
+- **Nest.js**          : A progressive Node.js framework for building efficient and scalable server-side applications.
+- **PostgreSQL**       : A powerful, open-source object-relational database system.
 - **Azure Blob Storage**: An object storage solution for the cloud. Blob Storage can handle all your unstructured data, images, videos and more.
 - **Azure App Service**: A fully managed platform for building, deploying, and scaling your web apps.
-- **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
+- **Tailwind CSS**      : A utility-first CSS framework for rapidly building custom user interfaces.
 
 ### Environment Variables
 
