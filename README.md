@@ -21,7 +21,7 @@ Here are some images of the project:
 
 ## Features
 
-_ **AI-Generated Images**: ShareME uses getimg.io to generate unique AI images that users can share.
+- **AI-Generated Images**: ShareME uses getimg.io to generate unique AI images that users can share.
 - **Voting Functionality**: Users can vote for their favorite images. To vote, users must be logged in.
 - **Azure Blob Storage**: All images are stored securely in Azure Blob Storage, ensuring high availability and reliability.
 - **Azure App Service**: The backend is hosted on Azure App Service, providing robust and scalable hosting for our Nest.js application.
