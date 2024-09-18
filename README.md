@@ -1,9 +1,9 @@
-# ShareME
+## ShareME
 
 ShareME is a full-stack TypeScript project for sharing AI-generated images. It uses Next.js for the frontend, Nest.js for the backend, and PostgreSQL for the database. The images are generated using getimg.io and stored in Azure Blob Storage. The backend is hosted on Azure App Service.
 
 
-## Project Structure
+### Project Structure
 
 The project is divided into two main directories:
 
@@ -11,7 +11,7 @@ The project is divided into two main directories:
 - `server`: This directory contains the Nest.js backend application.
 
 
-## Images
+### Images
 
 Here are some images of the project:
 
@@ -19,7 +19,7 @@ Here are some images of the project:
 ![User Interface Screenshot](images/ui-screenshot.png)
 
 
-## Features
+### Features
 
 - **AI-Generated Images**: ShareME uses getimg.io to generate unique AI images that users can share.
 - **Voting Functionality**: Users can vote for their favorite images. To vote, users must be logged in.
@@ -27,7 +27,7 @@ Here are some images of the project:
 - **Azure App Service**: The backend is hosted on Azure App Service, providing robust and scalable hosting for our Nest.js application.
 - **Authentication**: Users must be logged in to vote, ensuring that voting is fair and authenticated.
 
-## Technologies Used
+### Technologies Used
 
 - **Next.js**: A React framework for building the frontend of the application.
 - **Nest.js**: A progressive Node.js framework for building efficient and scalable server-side applications.
@@ -36,7 +36,7 @@ Here are some images of the project:
 - **Azure App Service**: A fully managed platform for building, deploying, and scaling your web apps.
 - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom user interfaces.
 
-## Environment Variables
+### Environment Variables
 
 To run this project, you will need to add the following environment variables to your `.env` file:
 
@@ -50,7 +50,7 @@ To run this project, you will need to add the following environment variables to
 
 Add these variables to a `.env` file in both the `client` and `server` directories.
 
-## Getting Started
+### Getting Started
 
 To get a local copy up and running, follow these steps:
 
@@ -60,7 +60,7 @@ To get a local copy up and running, follow these steps:
 4. Run the development server in the `client` directory with `npm run dev`.
 5. Run the development server in the `server` directory with `npm run start`.
 
-## Contributing
+### Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
@@ -70,11 +70,11 @@ Contributions are what make the open-source community such an amazing place to l
 4. Push to the branch (`git push origin feature/AmazingFeature`).
 5. Open a pull request.
 
-## License
+### License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## Contact
+### Contact
 
 putturudivakarreddy@gmail.com
 Project Link: https://github.com/putturudivakar/Share-Me
