@@ -15,7 +15,7 @@ The project is divided into two main directories:
 
 Here are some images of the project:
 
-![Project Diagram](images/project--diagram.png)
+![Project Diagram](images/project-image)
 ![User Interface Screenshot](images/ui-screenshot.png)
 
 
