@@ -15,13 +15,13 @@ The project is divided into two main directories:
 
 Here are some images of the project:
 
-![Project Diagram](images/project-diagram.png)
+![Project Diagram](images/project--diagram.png)
 ![User Interface Screenshot](images/ui-screenshot.png)
 
 
 ## Features
 
-- **AI-Generated Images**: ShareME uses getimg.io to generate unique AI images that users can share.
+_ **AI-Generated Images**: ShareME uses getimg.io to generate unique AI images that users can share.
 - **Voting Functionality**: Users can vote for their favorite images. To vote, users must be logged in.
 - **Azure Blob Storage**: All images are stored securely in Azure Blob Storage, ensuring high availability and reliability.
 - **Azure App Service**: The backend is hosted on Azure App Service, providing robust and scalable hosting for our Nest.js application.
@@ -76,5 +76,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-ianmuchesia78@gmail.com
-Project Link: https://github.com/ianMuchesia/Share-Me
+putturudivakarreddy@gmail.com
+Project Link: https://github.com/putturudivakar/Share-Me
