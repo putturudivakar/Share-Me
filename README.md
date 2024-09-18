@@ -1,4 +1,4 @@
-## ShareME
+# ShareME
 
 ShareME is a full-stack TypeScript project for sharing AI-generated images. It uses Next.js for the frontend, Nest.js for the backend, and PostgreSQL for the database. The images are generated using getimg.io and stored in Azure Blob Storage. The backend is hosted on Azure App Service.
 
