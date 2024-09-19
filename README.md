@@ -75,5 +75,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ### Contact
 
-- **Mail** **:** putturudivakarreddy@gmail.com.
+- **Gmail** **:** putturudivakarreddy@gmail.com.
 - **Project Link** **:** https://github.com/putturudivakar/Share-Me.
