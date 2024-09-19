@@ -16,6 +16,7 @@ The project is divided into two main directories:
 Here are some images of the project:
 
 ![project course](images/projectdiagram.png)
+![project image](images/nest.js.png)
 ![User Interface Screenshot](images/ui-screenshot.png)
 ### Features
 
