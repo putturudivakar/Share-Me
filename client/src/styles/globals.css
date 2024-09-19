@@ -57,9 +57,9 @@ body {
 .lds-dual-ring:after {
   content: ' ';
   display: block;
-  width: 64px;
-  height: 64px;
-  margin: 8px;
+  width: 90px;
+  height: 90px;
+  margin: 15px;
   border-radius: 50%;
   border: 6px solid #fff;
   border-color: #fff transparent #fff transparent;
