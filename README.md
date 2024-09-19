@@ -15,10 +15,8 @@ The project is divided into two main directories:
 
 Here are some images of the project:
 
-![Project Diagram](images/project-image.png)
-![User Interface Screenshot](images/ui-screenshot.png)
 ![project course](https://github.com/putturudivakar/Share-Me/blob/4d0ae61ee2e8597205988f537cdc4b882c35591c/images/projectdiagram.png)
-
+![User Interface Screenshot](images/ui-screenshot.png)
 ### Features
 
 - **AI-Generated Images**  : ShareME uses getimg.io to generate unique AI images that users can share.
