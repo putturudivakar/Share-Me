@@ -15,7 +15,7 @@ The project is divided into two main directories:
 
 Here are some images of the project:
 
-![project course](https://github.com/putturudivakar/Share-Me/blob/4d0ae61ee2e8597205988f537cdc4b882c35591c/images/projectdiagram.png)
+![project course](images/projectdiagram.png)
 ![User Interface Screenshot](images/ui-screenshot.png)
 ### Features
 
