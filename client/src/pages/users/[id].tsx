@@ -21,7 +21,7 @@ const UserProfile = ({ user, posts }: Props) => {
           <div
             className="absolute top-0 w-full h-full bg-center bg-cover"
             style={{
-              backgroundImage: `url(/images.png)`,
+              backgroundImage: `url(/Designer.png)`,
             }}
           >
             <span
