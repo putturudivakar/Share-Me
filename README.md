@@ -7,8 +7,8 @@ ShareME is a full-stack TypeScript project for sharing AI-generated images. It u
 
 The project is divided into two main directories:
 
-- `client`: This directory contains the Next.js frontend application.
-- `server`: This directory contains the Nest.js backend application.
+- **`client`**: This directory contains the Next.js frontend application.
+- **`server`**: This directory contains the Nest.js backend application.
 
 
 ## Images
