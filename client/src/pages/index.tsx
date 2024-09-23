@@ -5,7 +5,7 @@ export default function Home() {
   return (
     <main>
       <Head>
-        <title>Home Page</title>
+        <title>Home</title>
         <meta
           name="description"
           content="This is the home page of my website."
