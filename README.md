@@ -76,5 +76,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-ianmuchesia78@gmail.com
+Mail :putturudivakarreddy@gmail.com
 Project Link: https://github.com/ianMuchesia/Share-Me
